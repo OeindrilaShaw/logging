@@ -1,0 +1,15 @@
+1    [main] ERROR com.pack.sample  - sample error message
+1    [main] FATAL com.pack.sample  - sample fatal message
+1    [main] WARN  com.pack.sample  - sample warn message
+1    [main] ERROR com.pack.sample  - sample error message
+1    [main] FATAL com.pack.sample  - sample fatal message
+2    [main] WARN  com.pack.sample  - sample warn message
+0    [main] ERROR com.pack.sample  - sample error message
+1    [main] FATAL com.pack.sample  - sample fatal message
+1    [main] WARN  com.pack.sample  - sample warn message
+1    [main] ERROR com.pack.sample  - sample error message
+1    [main] FATAL com.pack.sample  - sample fatal message
+1    [main] WARN  com.pack.sample  - sample warn message
+0    [main] ERROR com.pack.sample  - sample error message
+1    [main] FATAL com.pack.sample  - sample fatal message
+1    [main] WARN  com.pack.sample  - sample warn message
